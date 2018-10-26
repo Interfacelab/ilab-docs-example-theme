@@ -1,0 +1,115 @@
+{
+  "title": "Example Theme",
+  "menu": "Example Theme",
+  "toolbar": "Example Theme",
+  "standalone": false,
+  "logo": {
+    "src": "images/logo.svg",
+    "width": 53,
+    "height": 64
+  },
+  "toc": [
+    {
+      "title": "Example Theme Overview",
+      "src": "index"
+    },
+    {
+      "title": "Custom Content Types",
+      "src": "content-types",
+      "children": [
+        {
+          "title": "Managing Bios",
+          "src": "content-types/bios"
+        },
+        {
+          "title": "Managing Case Studies",
+          "src": "content-types/case-studies"
+        },
+        {
+          "title": "Managing News",
+          "src": "content-types/news"
+        }
+      ]
+    },
+    {
+      "title": "Working With Images",
+      "src": "images"
+    },
+    {
+      "title": "Creating and Managing Pages",
+      "src": "pages",
+      "children": [
+        {
+          "title": "Content Blocks",
+          "src": "pages/content-blocks",
+          "children": [
+            {
+              "title": "Carousel",
+              "src": "pages/content-blocks/carousel"
+            },
+            {
+              "title": "Hero",
+              "src": "pages/content-blocks/hero"
+            },
+            {
+              "title": "Callout",
+              "src": "pages/content-blocks/callout"
+            },
+            {
+              "title": "Information Panel",
+              "src": "pages/content-blocks/information-panel"
+            },
+            {
+              "title": "Text Block",
+              "src": "pages/content-blocks/text-block"
+            },
+            {
+              "title": "Text Header",
+              "src": "pages/content-blocks/text-header"
+            },
+            {
+              "title": "Two Column Text Block",
+              "src": "pages/content-blocks/two-column-text-block"
+            },
+            {
+              "title": "Image Block",
+              "src": "pages/content-blocks/image-block"
+            },
+            {
+              "title": "Leadership Team Grid",
+              "src": "pages/content-blocks/leadership-grid"
+            },
+            {
+              "title": "Post List",
+              "src": "pages/content-blocks/post-list"
+            },
+            {
+              "title": "Contact Form",
+              "src": "pages/content-blocks/contact-form"
+            },
+            {
+              "title": "Video",
+              "src": "pages/content-blocks/video"
+            },
+            {
+              "title": "Bookmarks",
+              "src": "pages/content-blocks/bookmarks"
+            },
+            {
+              "title": "Links",
+              "src": "pages/content-blocks/links"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Menus",
+      "src": "menus"
+    },
+    {
+      "title": "Publishing",
+      "src": "publishing"
+    }
+  ]
+}
